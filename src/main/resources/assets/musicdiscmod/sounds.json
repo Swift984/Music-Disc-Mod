@@ -6,5 +6,125 @@
         "stream": true
       }
     ]
+  },
+  "ballroom": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:ballroom",
+        "stream": true
+      }
+    ]
+  },
+  "benny_worm": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:benny_worm",
+        "stream": true
+      }
+    ]
+  },
+  "brylcream": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:brylcream",
+        "stream": true
+      }
+    ]
+  },
+  "burning_memory": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:burning_memory",
+        "stream": true
+      }
+    ]
+  },
+  "canal_royale": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:canal_royale",
+        "stream": true
+      }
+    ]
+  },
+  "courtyard": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:courtyard",
+        "stream": true
+      }
+    ]
+  },
+  "faraway_beach": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:faraway_beach",
+        "stream": true
+      }
+    ]
+  },
+  "ghastly_ghostship": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:ghastly_ghostship",
+        "stream": true
+      }
+    ]
+  },
+  "masquerade": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:masquerade",
+        "stream": true
+      }
+    ]
+  },
+  "my_golden_hook": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:my_golden_hook",
+        "stream": true
+      }
+    ]
+  },
+  "omfg_hello": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:omfg_hello",
+        "stream": true
+      }
+    ]
+  },
+  "rhythmic_reef": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:rhythmic_reef",
+        "stream": true
+      }
+    ]
+  },
+  "this_is_berk": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:this_is_berk",
+        "stream": true
+      }
+    ]
+  },
+  "vine_boom": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:vine_boom",
+        "stream": true
+      }
+    ]
+  },
+  "dog": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:dog",
+        "stream": true
+      }
+    ]
   }
 }

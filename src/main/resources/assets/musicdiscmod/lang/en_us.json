@@ -1,4 +1,49 @@
 {
   "item.musicdiscmod.watersong_music_disc": "Special Music Disc",
-  "item.musicdiscmod.watersong_music_disc.desc": "DTL:NC - Watersong"
+  "item.musicdiscmod.watersong_music_disc.desc": "DTL:NC - Watersong",
+
+  "item.musicdiscmod.ballroom_music_disc": "Special Music Disc",
+  "item.musicdiscmod.ballroom_music_disc.desc": "DTL:NC - Ballroom",
+
+  "item.musicdiscmod.benny_worm_music_disc": "Special Music Disc",
+  "item.musicdiscmod.benny_worm_music_disc.desc": "Jack Stauber - Benny Worm",
+
+  "item.musicdiscmod.brylcream_music_disc": "Special Music Disc",
+  "item.musicdiscmod.brylcream_music_disc.desc": "Brylcream - Brylcream",
+
+  "item.musicdiscmod.burning_memory_music_disc": "Special Music Disc",
+  "item.musicdiscmod.burning_memory_music_disc.desc": "The Caretaker - It's Just a Burning Memory",
+
+  "item.musicdiscmod.canal_royale_music_disc": "Special Music Disc",
+  "item.musicdiscmod.canal_royale_music_disc.desc": "DTL:NC - Canal Royale",
+
+  "item.musicdiscmod.courtyard_music_disc": "Special Music Disc",
+  "item.musicdiscmod.courtyard_music_disc.desc": "DTL:NC - Courtyard",
+
+  "item.musicdiscmod.faraway_beach_music_disc": "Special Music Disc",
+  "item.musicdiscmod.faraway_beach_music_disc.desc": "DTL:NC - Faraway Beach",
+
+  "item.musicdiscmod.ghastly_ghostship_music_disc": "Special Music Disc",
+  "item.musicdiscmod.ghastly_ghostship_music_disc.desc": "DTL:NC - Ghastly Ghostship",
+
+  "item.musicdiscmod.masquerade_music_disc": "Special Music Disc",
+  "item.musicdiscmod.masquerade_music_disc.desc": "Mozart or something idfk - Masquerade",
+
+  "item.musicdiscmod.my_golden_hook_music_disc": "Special Music Disc",
+  "item.musicdiscmod.my_golden_hook_music_disc.desc": "Ryan Zach - My Golden Hook",
+
+  "item.musicdiscmod.omfg_hello_music_disc": "Special Music Disc",
+  "item.musicdiscmod.omfg_hello_music_disc.desc": "OMFG - Hello",
+
+  "item.musicdiscmod.rhythmic_reef_music_disc": "Special Music Disc",
+  "item.musicdiscmod.rhythmic_reef_music_disc.desc": "DTL:NC - Rhythmic Reef",
+
+  "item.musicdiscmod.this_is_berk_music_disc": "Special Music Disc",
+  "item.musicdiscmod.this_is_berk_music_disc.desc": "How to Train Your Dragon - This is Berk",
+
+  "item.musicdiscmod.vine_boom_music_disc": "Epic Music Disc",
+  "item.musicdiscmod.vine_boom_music_disc.desc": "Vine - Boom",
+
+  "item.musicdiscmod.dog_music_disc": "Epic Music Disc",
+  "item.musicdiscmod.dog_music_disc.desc": "DM DOKURO - The Devourer of Gods"
 }

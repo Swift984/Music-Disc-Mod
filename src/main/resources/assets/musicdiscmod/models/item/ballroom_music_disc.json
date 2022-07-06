@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "musicdiscmod:item/ballroom_music_disc"
+  }
+}

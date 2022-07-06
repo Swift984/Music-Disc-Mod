@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "musicdiscmod:item/this_is_berk_music_disc"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "musicdiscmod:item/my_golden_hook_music_disc"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "musicdiscmod:item/burning_memory_music_disc"
+  }
+}
