@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "musicdiscmod",
+  "version": "${version}",
+
+  "name": "Swift984's Music Disc Mod",
+  "description": "This shit is fire!",
+  "authors": [
+    "Swift984"
+  ],
+  "contact": {
+    "homepage": "*",
+    "sources": "*"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.swift984.musicdiscmod.MusicDiscMod"
+    ]
+  },
+  "mixins": [
+    "musicdiscmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
