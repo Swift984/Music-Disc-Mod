@@ -9,12 +9,12 @@
     "Swift984"
   ],
   "contact": {
-    "homepage": "*",
-    "sources": "*"
+    "homepage": "https://github.com/Swift984",
+    "sources": "https://github.com/Swift984/Music-Disc-Mod"
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/musicdiscmod/icon.png",
 
   "environment": "*",
   "entrypoints": {

@@ -1,0 +1,10 @@
+{
+  "watersong": {
+    "sounds": [
+      {
+        "name": "musicdiscmod:watersong",
+        "stream": true
+      }
+    ]
+  }
+}
